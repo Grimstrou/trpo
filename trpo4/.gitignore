@@ -1,0 +1,7 @@
+app
+app-test
+.main.c.swp
+main.c~
+*.d
+*.a
+*.o
